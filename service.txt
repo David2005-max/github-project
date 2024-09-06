@@ -1,1 +1,4 @@
 My services list
+Build dynamic web applications 
+create responsive, and user friendily
+front development
